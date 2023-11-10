@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day5JaggedArray\Day5JaggedArray\bin\Debug\Day5JaggedArray.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day5JaggedArray\Day5JaggedArray\bin\Debug\Day5JaggedArray.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day5JaggedArray\Day5JaggedArray\bin\Debug\Day5JaggedArray.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day5JaggedArray\Day5JaggedArray\obj\Debug\Day5JaggedArray.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day5JaggedArray\Day5JaggedArray\obj\Debug\Day5JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day5JaggedArray\Day5JaggedArray\obj\Debug\Day5JaggedArray.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day5JaggedArray\Day5JaggedArray\obj\Debug\Day5JaggedArray.pdb
